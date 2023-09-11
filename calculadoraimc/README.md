@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Uma calculadora de IMC feita na linguagem dart para aplicar os conhecimentos de orientação a objetos, funções, excessões, testes entre outros.
